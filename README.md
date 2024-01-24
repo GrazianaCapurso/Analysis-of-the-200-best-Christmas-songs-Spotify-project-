@@ -1,0 +1,1 @@
+This project focuses on exploring factors influencing track popularity through the analysis of Spotify’s extensive dataset. This statistical project uses the Spotify API1 to anaLyze the relationship between musical features and audience preferences.
